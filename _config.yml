@@ -1,7 +1,7 @@
 # Site settings
 title: h a p p y b i r t h d a y e r i c !
 description: 
-# baseurl: "/particle" # the subpath of your site, e.g. /blog
+baseurl:
 url: https://its100percentreal.github.io/hbd.io
 
 # User settings
