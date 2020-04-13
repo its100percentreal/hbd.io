@@ -1,8 +1,8 @@
 # Site settings
 title: h a p p y b i r t h d a y e r i c !
 description: 
-baseurl: /
-url: https://its100percentreal.github.io/hbd.io
+baseurl: "/"
+url: "https://its100percentreal.github.io/hbd.io"
 
 # User settings
 username: happy birthday eric!
