@@ -1,11 +1,7 @@
 # Site settings
 title: h a p p y b i r t h d a y e r i c !
 description: 
-<<<<<<< HEAD
 baseurl: "/"
-=======
-baseurl: ""
->>>>>>> fec3e1faf7c603d6477bcfb131b077c350cf6dab
 url: "https://its100percentreal.github.io/hbd.io"
 
 # User settings
